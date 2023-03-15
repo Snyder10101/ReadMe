@@ -2,9 +2,9 @@
 
 ###  😁 About Me
 
-👋 My name is Christian Snyder, a full stack developer 
+👋 My name is Christian Snyder, I am full stack developer 
 
-🙌 I’m currently working on my portfolio, 
+🙌 I’m currently working on my portfolio... 
 
 🎉 Outside of work, I enjoy playing competive online games and bodybuilding 
 
