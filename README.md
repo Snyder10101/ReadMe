@@ -4,6 +4,7 @@
 
 👋 My name is Christian Snyder, I am full stack developer 
 I’m currently working on my portfolio...projects demos are in progess!
+<br>
 🎉 Outside of work, I enjoy playing competive online games like CSGO & Dota and outside the computer I enjoy hiking & bodybuilding.
 
 ## 👨🏼‍💻📚 Stack
