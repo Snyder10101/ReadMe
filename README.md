@@ -10,7 +10,7 @@ My passion for using technology to create innovative solutions drives me to cont
 
 As a veteran of the US Army, I have developed valuable skills such as discipline, teamwork, and leadership, which I apply to my work as a software engineer.
 
-👾 Outside of work, I enjoy participating in competitive online games such as CSGO and Dota, as well as activities such as hiking and bodybuilding.
+👾 Outside of work, I enjoy participating in competitive online games such as CSGO and Dota, as well as activities such as hiking and bodybuilding 🏋🏼.
 
 In summary, I am a motivated and skilled software engineer with a passion for innovation and excellence. I am always eager to expand my knowledge and skillset and use my expertise to create impactful solutions.
 
