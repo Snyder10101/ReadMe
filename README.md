@@ -2,15 +2,17 @@
 
 ###  😁 About Me
 
-I am a full-stack software engineer based in Phoenix, AZ currently interning at Scientist.com. I began my journey in software development through a rigorous bootcamp called LEARN Academy Additionally, I am proud to have served in the US Army as a veteran.
+I'm a full-stack software engineer based in Phoenix, AZ, currently interning at Scientist.com. I began my journey in software development through LEARN Academy, a rigorous bootcamp that taught me the importance of adaptability and problem-solving, making me an effective communicator in my work.
 
-💡 My experience in the classroom taught me the importance of adaptability and problem-solving, skills that have made me an effective communicator in my work as a developer. I am passionate about using my expertise to create innovative solutions and always seek to challenge myself to grow as a professional.
+My passion for using technology to create innovative solutions drives me to continuously challenge myself and grow as a professional. I have gained a diverse set of skills and experience in both front-end and back-end development, making me proficient in various programming languages.
 
-📕 My education has allowed me to work on a variety of projects, both front-end and back-end, making proficiency in various programming languages. I am eager to continue my journey as a growing developer, tackling blockers one day at a time.
+🛠 I approach challenges with determination and perseverance, working through blockers one day at a time until I achieve my goals.
 
-In summary, I am a motivated and skilled software engineer with a passion for innovation and a commitment to excellence. I thrive on solving complex problems and am always eager to expand my knowledge and skillset in the ever-evolving world of technology. My experience in the US Army has taught me valuable skills such as discipline, teamwork, and leadership, which I bring to my work as a software engineer.
+As a veteran of the US Army, I have developed valuable skills such as discipline, teamwork, and leadership, which I apply to my work as a software engineer.
 
-🎉 Outside of work, I enjoy playing competive online games like CSGO & Dota and outside the computer I enjoy hiking & bodybuilding.
+👾 Outside of work, I enjoy participating in competitive online games such as CSGO and Dota, as well as activities such as hiking and bodybuilding.
+
+In summary, I am a motivated and skilled software engineer with a passion for innovation and excellence. I am always eager to expand my knowledge and skillset and use my expertise to create impactful solutions.
 
 ## 👨🏼‍💻📚 Stack
 #### Programming Languages:
