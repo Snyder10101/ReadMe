@@ -26,6 +26,6 @@
 ![postgresql](https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor=#4169E1)
 ![activerecord](https://img.shields.io/badge/activerecord-white?style=for-the-badge&logo=rubyonrails&logoColor=CC0000)
 
-#### Programming Testing: 
+#### Testing: 
 ![jest](https://img.shields.io/badge/Jest-853957?style=for-the-badge&logo=jest&logoColor=white)
 ![RSPEC](https://img.shields.io/badge/RSPEC-fc9cac?style=for-the-badge&logo=ruby&logoColor=6ce0f9)
