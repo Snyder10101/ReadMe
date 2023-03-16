@@ -2,9 +2,14 @@
 
 ###  😁 About Me
 
-👋 My name is Christian Snyder, I am full stack developer 
-I’m currently working on my portfolio...projects demos are in progess!
-<br>
+I am a full-stack software engineer based in Phoenix, AZ currently interning at Scientist.com. I began my journey in software development through a rigorous bootcamp called LEARN Academy Additionally, I am proud to have served in the US Army as a veteran.
+
+My experience in the classroom taught me the importance of adaptability and problem-solving, skills that have made me an effective communicator in my work as a developer. I am passionate about using my expertise to create innovative solutions and always seek to challenge myself to grow as a professional.
+
+My education has allowed me to work on a variety of projects, both front-end and back-end, making me a polyglot with proficiency in various programming languages. I am eager to continue my journey as a growing developer, tackling blockers one day at a time.
+
+In summary, I am a motivated and skilled software engineer with a passion for innovation and a commitment to excellence. I thrive on solving complex problems and am always eager to expand my knowledge and skillset in the ever-evolving world of technology. My experience in the US Army has taught me valuable skills such as discipline, teamwork, and leadership, which I bring to my work as a software engineer.
+
 🎉 Outside of work, I enjoy playing competive online games like CSGO & Dota and outside the computer I enjoy hiking & bodybuilding.
 
 ## 👨🏼‍💻📚 Stack
