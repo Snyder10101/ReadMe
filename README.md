@@ -1,4 +1,4 @@
-## 👋🏻 Hello im Christian ! 
+## 👋🏻 Hello Im Christian ! 
 
 ###  😁 About Me
 
