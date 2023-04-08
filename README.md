@@ -2,7 +2,7 @@
 
 ###  😁 About Me
 
-I'm a full-stack software engineer based in Phoenix, AZ, currently interning at Scientist.com. I began my journey in software development through LEARN Academy, a rigorous bootcamp that taught me the importance of adaptability and problem-solving, making me an effective communicator in my work.
+I'm a full-stack software engineer based in Phoenix, AZ. I began my journey in software development through LEARN Academy, a rigorous bootcamp that taught me the importance of adaptability and problem-solving, making me an effective communicator in my work.
 
 My passion for using technology to create innovative solutions drives me to continuously challenge myself and grow as a professional. I have gained a diverse set of skills and experience in both front-end and back-end development, making me proficient in various programming languages.
 
